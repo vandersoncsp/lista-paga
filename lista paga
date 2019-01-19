@@ -1,0 +1,863 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filmes e Séries",Tc Premium HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4876
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filmes e Séries",Tc Premium HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1923
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filmes e Séries",Tc Premium HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/149
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filmes e Séries",Tc Premium Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3631
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filmes e Séries",Tc Premium
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1804
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filmes e Séries",Tc Premium *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1519
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Filmes e Séries",Tc Action HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4661
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Filmes e Séries",Tc Action HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/152
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Filmes e Séries",Tc Action HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1926
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Filmes e Séries",Tc Action Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4662
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Filmes e Séries",Tc Action
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1808
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Filmes e Séries",Tc Action *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1511
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Filmes e Séries",Tc Touch HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4667
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Filmes e Séries",Tc Touch HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1922
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Filmes e Séries",Tc Touch HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/148
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Filmes e Séries",Tc Touch Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4668
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Filmes e Séries",Tc Touch
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1803
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Filmes e Séries",Tc Touch *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1521
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filmes e Séries",Tc Pipoca HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4665
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filmes e Séries",Tc Pipoca HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1924
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filmes e Séries",Tc Pipoca HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/150
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filmes e Séries",Tc Pipoca Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4666
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filmes e Séries",Tc Pipoca
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1805
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filmes e Séries",Tc Pipoca *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1517
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Filmes e Séries",Tc Fun HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4663
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Filmes e Séries",Tc Fun HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1925
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Filmes e Séries",Tc Fun HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/151
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Filmes e Séries",Tc Fun Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4664
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Filmes e Séries",Tc Fun
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1806
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Filmes e Séries",Tc Fun *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1515
+#EXTINF:0 tvg-id="Tccult.br" group-title="Filmes e Séries",TC Cult HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2024
+#EXTINF:0 tvg-id="Tccult.br" group-title="Filmes e Séries",Tc Cult HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1165
+#EXTINF:0 tvg-id="Tccult.br" group-title="Filmes e Séries",Tc Cult
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1807
+#EXTINF:0 tvg-id="Tccult.br" group-title="Filmes e Séries",Tc Cult *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1513
+#EXTINF:0 tvg-id="Hbo.br" group-title="Filmes e Séries",HBO HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4658
+#EXTINF:0 tvg-id="Hbo.br" group-title="Filmes e Séries",HBO HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1950
+#EXTINF:0 tvg-id="Hbo.br" group-title="Filmes e Séries",HBO HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/176
+#EXTINF:0 tvg-id="Hbo.br" group-title="Filmes e Séries",HBO Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4875
+#EXTINF:0 tvg-id="Hbo.br" group-title="Filmes e Séries",HBO
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1868
+#EXTINF:0 tvg-id="Hbo.br" group-title="Filmes e Séries",HBO *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/92
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Filmes e Séries",HBO 2 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1952
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Filmes e Séries",HBO 2 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/178
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Filmes e Séries",HBO 2
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1863
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Filmes e Séries",HBO 2 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/87
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Filmes e Séries",HBO Plus HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4659
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Filmes e Séries",HBO Plus HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1949
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Filmes e Séries",HBO Plus HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/175
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Filmes e Séries",HBO Plus Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4660
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Filmes e Séries",Hbo Plus
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1866
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Filmes e Séries",Hbo Plus *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/90
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Filmes e Séries",HBO Family HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1951
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Filmes e Séries",HBO Family HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/177
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Filmes e Séries",Hbo Family
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1867
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Filmes e Séries",HBO Family *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/91
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Filmes e Séries",HBO Signature HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1948
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Filmes e Séries",HBO Signature HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/174
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Filmes e Séries",Hbo Signature
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1864
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Filmes e Séries",Hbo Signature *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/88
+#EXTINF:0 tvg-id="Max.br" group-title="Filmes e Séries",MAX Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3633
+#EXTINF:0 tvg-id="Max.br" group-title="Filmes e Séries",MAX HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1158
+#EXTINF:0 tvg-id="Max.br" group-title="Filmes e Séries",MAX HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2031
+#EXTINF:0 tvg-id="Max.br" group-title="Filmes e Séries",Max
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1857
+#EXTINF:0 tvg-id="Max.br" group-title="Filmes e Séries",Max *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/81
+#EXTINF:0 tvg-id="Maxup.br" group-title="Filmes e Séries",MAX UP HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4879
+#EXTINF:0 tvg-id="Maxup.br" group-title="Filmes e Séries",MAX UP HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1160
+#EXTINF:0 tvg-id="Maxup.br" group-title="Filmes e Séries",MAX UP HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2029
+#EXTINF:0 tvg-id="Maxup.br" group-title="Filmes e Séries",MAX UP Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4880
+#EXTINF:0 tvg-id="Maxup.br" group-title="Filmes e Séries",Max UP
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1854
+#EXTINF:0 tvg-id="Maxup.br" group-title="Filmes e Séries",Max UP *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/78
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Filmes e Séries",MAX Prime Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3632
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Filmes e Séries",MAX Prime HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1159
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Filmes e Séries",Max Prime HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2030
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Filmes e Séries",Max Prime
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1856
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Filmes e Séries",Max Prime*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/80
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Filmes e Séries",Cinemax HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1149
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Filmes e Séries",Cinemax HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2040
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Filmes e Séries",Cinemax
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1899
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Filmes e Séries",Cinemax*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/123
+#EXTINF:0 tvg-id="Fox.br" group-title="Filmes e Séries",FOX HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4672
+#EXTINF:0 tvg-id="Fox.br" group-title="Filmes e Séries",FOX HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1960
+#EXTINF:0 tvg-id="Fox.br" group-title="Filmes e Séries",FOX HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/186
+#EXTINF:0 tvg-id="Fox.br" group-title="Filmes e Séries",FOX Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4673
+#EXTINF:0 tvg-id="Fox.br" group-title="Filmes e Séries",Fox
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1879
+#EXTINF:0 tvg-id="Fox.br" group-title="Filmes e Séries",Fox *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/103
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="Filmes e Séries",FOX Premium 1 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1962
+#EXTINF:0 tvg-id="Discovery.br" group-title="Filmes e Séries",FOX Premium 1 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/188
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="Filmes e Séries",Fox Premium 1
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5265
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Filmes e Séries",FOX Premium 2 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1961
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Filmes e Séries",FOX Premium 2 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/187
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Filmes e Séries",Fox Premium 2
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5266
+#EXTINF:0 tvg-id="Foxlife.br" group-title="Filmes e Séries",FOX Life HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1959
+#EXTINF:0 tvg-id="Foxlife.br" group-title="Filmes e Séries",FOX Life HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5267
+#EXTINF:0 tvg-id="Foxlife.br" group-title="Filmes e Séries",FOX Life
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1878
+#EXTINF:0 tvg-id="Foxlife.br" group-title="Filmes e Séries",FOX Life*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/102
+#EXTINF:0 tvg-id="Fx.br" group-title="Filmes e Séries",FX HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4877
+#EXTINF:0 tvg-id="Fx.br" group-title="Filmes e Séries",FX HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1956
+#EXTINF:0 tvg-id="Fx.br" group-title="Filmes e Séries",FX HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/182
+#EXTINF:0 tvg-id="Fx.br" group-title="Filmes e Séries",FX Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4878
+#EXTINF:0 tvg-id="Fx.br" group-title="Filmes e Séries",Fx
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1874
+#EXTINF:0 tvg-id="Fx.br" group-title="Filmes e Séries",FX *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/98
+#EXTINF:0 tvg-id="Sony.br" group-title="Filmes e Séries",Canal Sony HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5235
+#EXTINF:0 tvg-id="Sony.br" group-title="Filmes e Séries",Canal Sony HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1975
+#EXTINF:0 tvg-id="Sony.br" group-title="Filmes e Séries",Canal Sony HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/201
+#EXTINF:0 tvg-id="Sony.br" group-title="Filmes e Séries",Canal Sony Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5236
+#EXTINF:0 tvg-id="Sony.br" group-title="Filmes e Séries",Canal Sony
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1902
+#EXTINF:0 tvg-id="Sony.br" group-title="Filmes e Séries",Canal Sony *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/126
+#EXTINF:0 tvg-id="Axn.br" group-title="Filmes e Séries",AXN HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4674
+#EXTINF:0 tvg-id="Axn.br" group-title="Filmes e Séries",AXN HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1979
+#EXTINF:0 tvg-id="Axn.br" group-title="Filmes e Séries",AXN  HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/205
+#EXTINF:0 tvg-id="Axn.br" group-title="Filmes e Séries",AXN Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4675
+#EXTINF:0 tvg-id="Axn.br" group-title="Filmes e Séries",AXN
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1911
+#EXTINF:0 tvg-id="Axn.br" group-title="Filmes e Séries",AXN *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/136
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Filmes e Séries",Warner HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4887
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Filmes e Séries",Warner Channel HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1916
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Filmes e Séries",Warner Channel HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/142
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Filmes e Séries",Warner Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4888
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Filmes e Séries",Warner Channel
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1788
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Filmes e Séries",Warner Channel *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/10
+#EXTINF:0 tvg-id="Space.br" group-title="Filmes e Séries",Space HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4883
+#EXTINF:0 tvg-id="Space.br" group-title="Filmes e Séries",Space HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1931
+#EXTINF:0 tvg-id="Space.br" group-title="Filmes e Séries",Space HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/157
+#EXTINF:0 tvg-id="Space.br" group-title="Filmes e Séries",Space Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4884
+#EXTINF:0 tvg-id="Space.br" group-title="Filmes e Séries",Space
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1816
+#EXTINF:0 tvg-id="Space.br" group-title="Filmes e Séries",Space *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/40
+#EXTINF:0 tvg-id="Tnt.br" group-title="Filmes e Séries",TNT HD LEGENDADO
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4669
+#EXTINF:0 tvg-id="Tnt.br" group-title="Filmes e Séries",TNT HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1921
+#EXTINF:0 tvg-id="Tnt.br" group-title="Filmes e Séries",TNT HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/147
+#EXTINF:0 tvg-id="Tnt.br" group-title="Filmes e Séries",TNT Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4670
+#EXTINF:0 tvg-id="Tnt.br" group-title="Filmes e Séries",TNT
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1799
+#EXTINF:0 tvg-id="Tnt.br" group-title="Filmes e Séries",TNT *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/21
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Filmes e Séries",TNT HD Séries Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4885
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Filmes e Séries",TNT Séries HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1920
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Filmes e Séries",TNT Séries HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/146
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Filmes e Séries",TNT Séries Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4886
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Filmes e Séries",TNT Séries
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1798
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Filmes e Séries",TNT Séries *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/20
+#EXTINF:0 tvg-id="Tbs.br" group-title="Filmes e Séries",TBS HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1927
+#EXTINF:0 tvg-id="Tbs.br" group-title="Filmes e Séries",TBS HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/153
+#EXTINF:0 tvg-id="Tbs.br" group-title="Filmes e Séries",TBS
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1810
+#EXTINF:0 tvg-id="Tbs.br" group-title="Filmes e Séries",TBS *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/32
+#EXTINF:0 tvg-id="Tcm.br" group-title="Filmes e Séries",TCM HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5251
+#EXTINF:0 tvg-id="Tcm.br" group-title="Filmes e Séries",TCM
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1809
+#EXTINF:0 tvg-id="Megapix.br" group-title="Filmes e Séries",Megapix HD Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4881
+#EXTINF:0 tvg-id="Megapix.br" group-title="Filmes e Séries",Megapix HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1945
+#EXTINF:0 tvg-id="Megapix.br" group-title="Filmes e Séries",Megapix HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/171
+#EXTINF:0 tvg-id="Megapix.br" group-title="Filmes e Séries",Megapix Legendado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4882
+#EXTINF:0 tvg-id="Megapix.br" group-title="Filmes e Séries",Megapix
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1853
+#EXTINF:0 tvg-id="Megapix.br" group-title="Filmes e Séries",Megapix *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/77
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="Filmes e Séries",Universal Channel HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1919
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="Filmes e Séries",Universal Channel HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/145
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="Filmes e Séries",Universal Channel
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1791
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="Filmes e Séries",Universal Channel *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/13
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Filmes e Séries",Studio Universal HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1163
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="Filmes e Séries",Studio Universal HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2026
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Filmes e Séries",Studio Universal
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1812
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Filmes e Séries",Studio Universal *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/34
+#EXTINF:0 tvg-id="Syfy.br" group-title="Filmes e Séries",Syfy HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1164
+#EXTINF:0 tvg-id="Syfy.br" group-title="Filmes e Séries",SYFY HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2025
+#EXTINF:0 tvg-id="Syfy.br" group-title="Filmes e Séries",Syfy
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1811
+#EXTINF:0 tvg-id="Syfy.br" group-title="Filmes e Séries",Syfy *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/33
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Filmes e Séries",Paramount Channel HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1940
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Filmes e Séries",Paramount Channel HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/166
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Filmes e Séries",Paramount Channel
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1841
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Filmes e Séries",Paramount Channel *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/65
+#EXTINF:0 tvg-id="Amc.br" group-title="Filmes e Séries",AMC HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3460
+#EXTINF:0 tvg-id="Amc.br" group-title="Filmes e Séries",AMC HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5288
+#EXTINF:0 tvg-id="Amc.br" group-title="Filmes e Séries",AMC
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3058
+#EXTINF:0 tvg-id="Amc.br" group-title="Filmes e Séries",AMC *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5287
+
+#EXTINF:0 tvg-id="Sportv.br" group-title="Esportes",SporTV HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/154
+#EXTINF:0 tvg-id="Sportv.br" group-title="Esportes",SporTV HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1928
+#EXTINF:0 tvg-id="Sportv.br" group-title="Esportes",Sportv
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1815
+#EXTINF:0 tvg-id="Sportv.br" group-title="Esportes",Sportv *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/39
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Esportes",SporTV 2 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1930
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Esportes",SporTV 2 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/156
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Esportes",Sportv 2
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1814
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Esportes",Sportv 2 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/38
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Esportes",SporTV 3 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1929
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Esportes",SporTV 3 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/155
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Esportes",Sportv 3
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1813
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Esportes",Sportv 3 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/36
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Esportes",Fox Sports HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1958
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Esportes",Fox Sports HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/184
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Esportes",Fox Sports
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1877
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Esportes",Fox Sports *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/101
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Esportes",Fox Sports 2 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1957
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Esportes",Fox Sports 2 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/183
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Esportes",Fox Sports 2
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1876
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Esportes",Fox Sports 2 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/100
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Esportes",ESPN BRASIL HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1965
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Esportes",ESPN BRASIL HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/191
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Esportes",Espn Brasil
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1882
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Esportes",Espn Brasil *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/106
+#EXTINF:0 tvg-id="ESPN+.br" group-title="Esportes",ESPN 2 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1964
+#EXTINF:0 tvg-id="ESPN+.br" group-title="Esportes",ESPN 2 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1168
+#EXTINF:0 tvg-id="ESPN+.br" group-title="Esportes",ESPN 2
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/192
+#EXTINF:0 tvg-id="ESPNInternational.br" group-title="Esportes",ESPN HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1966
+#EXTINF:0 tvg-id="ESPNInternational.br" group-title="Esportes",ESPN HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/190
+#EXTINF:0 tvg-id="ESPN+.br" group-title="Esportes",ESPN 2 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1883
+#EXTINF:0 tvg-id="ESPNInternational.br" group-title="Esportes",Espn
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1786
+#EXTINF:0 tvg-id="ESPNInternational.br" group-title="Esportes",Espn *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/107
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Esportes",ESPN Extra HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3054
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Esportes",ESPN Extra
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3053
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Esportes",ESPN Extra HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/194
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Esportes",ESPN Extra*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/108
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Esportes",Band Sports HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1977
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Esportes",Band Sports HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/203
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Esportes",Band Sports
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1909
+#EXTINF:0 tvg-id="BandRede.br" group-title="Esportes",Band Sports *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/133
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Esportes",FISH TV HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3628
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Esportes",FISH TV HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5282
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Esportes",Fish TV
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1881
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Esportes",Fish TV *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/105
+#EXTINF:0 tvg-id="Combate.br" group-title="Esportes",Combate HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1974
+#EXTINF:0 tvg-id="Combate.br" group-title="Esportes",Combate HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/200
+#EXTINF:0 tvg-id="Combate.br" group-title="Esportes",Combate
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1898
+#EXTINF:0 tvg-id="Combate.br" group-title="Esportes",Combate *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/122
+#EXTINF:0 tvg-id="ext" group-title="Esportes",TABELA DE JOGOS
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/4143
+#EXTINF:0 tvg-id="Premierefchd.br" group-title="Esportes",Premiere Clubes 24H HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3108
+#EXTINF:0 tvg-id="Premierefchd.br" group-title="Esportes",Premiere Clubes  24H HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1428
+#EXTINF:0 tvg-id="Premierefchd.br" group-title="Esportes",Premiere Clubes *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/54
+#EXTINF:0 tvg-id="Premierefchd.br" group-title="Esportes",Premiere Clubes
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1830
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Esportes",Premiere 2 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1938
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Esportes",Premiere 2 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/164
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Esportes",Premiere 2
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1838
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Esportes",Premiere 2 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/62
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Esportes",Premiere 3 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1937
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Esportes",Premiere 3 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/163
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Esportes",Premiere 3
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1837
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Esportes",Premiere 3 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/61
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Esportes",Premiere 4 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1936
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Esportes",Premiere 4 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/162
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Esportes",Premiere 4
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1836
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Esportes",Premiere 4 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/60
+#EXTINF:0 tvg-id="Premiere5.br" group-title="Esportes",Premiere 5 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1935
+#EXTINF:0 tvg-id="Premiere5.br" group-title="Esportes",Premiere 5 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/161
+#EXTINF:0 tvg-id="Premiere5.br" group-title="Esportes",Premiere 5
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1835
+#EXTINF:0 tvg-id="Premiere5.br" group-title="Esportes",Premiere 5 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/59
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Esportes",Premiere 6 HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3286
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Esportes",Premiere 6
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1834
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Esportes",Premiere 6 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/58
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Esportes",Premiere 7 HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3287
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Esportes",Premiere 7
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1833
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Esportes",Premiere 7 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/57
+
+#EXTINF:0 tvg-id="FilmArts.br" group-title="Variedades e Músicas",Film&Arts HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/193
+#EXTINF:0 tvg-id="FilmArts.br" group-title="Variedades e Músicas",Film&Arts
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/109
+#EXTINF:0 tvg-id="Ae.br" group-title="Variedades e Músicas",A&E HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1147
+#EXTINF:0 tvg-id="Ae.br" group-title="Variedades e Músicas",A&E HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2043
+#EXTINF:0 tvg-id="Ae.br" group-title="Variedades e Músicas",A&E
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1915
+#EXTINF:0 tvg-id="Ae.br" group-title="Variedades e Músicas",A&E *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/140
+#EXTINF:0 tvg-id="+globosat.br" group-title="Variedades e Músicas",+ Globosat HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1157
+#EXTINF:0 tvg-id="+globosat.br" group-title="Variedades e Músicas",+ Globosat HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2032
+#EXTINF:0 tvg-id="+globosat.br" group-title="Variedades e Músicas",+ Globosat
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1858
+#EXTINF:0 tvg-id="+globosat.br" group-title="Variedades e Músicas",+ Globosat *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/82
+#EXTINF:0 tvg-id="Gnt.br" group-title="Variedades e Músicas",GNT HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1954
+#EXTINF:0 tvg-id="Gnt.br" group-title="Variedades e Músicas",GNT HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/180
+#EXTINF:0 tvg-id="Gnt.br" group-title="Variedades e Músicas",Gnt
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1870
+#EXTINF:0 tvg-id="Gnt.br" group-title="Variedades e Músicas",GNT*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3339
+#EXTINF:0 tvg-id="Viva.br" group-title="Variedades e Músicas",Viva HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1918
+#EXTINF:0 tvg-id="Viva.br" group-title="Variedades e Músicas",Viva HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/144
+#EXTINF:0 tvg-id="Viva.br" group-title="Variedades e Músicas",Viva
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1789
+#EXTINF:0 tvg-id="Viva.br" group-title="Variedades e Músicas",Viva *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/11
+#EXTINF:0 tvg-id="Off.br" group-title="Variedades e Músicas",OFF HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1941
+#EXTINF:0 tvg-id="Off.br" group-title="Variedades e Músicas",OFF HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/167
+#EXTINF:0 tvg-id="Off.br" group-title="Variedades e Músicas",OFF
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1842
+#EXTINF:0 tvg-id="Off.br" group-title="Variedades e Músicas",OFF *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/66
+#EXTINF:0 tvg-id="Woohoo.br" group-title="Variedades e Músicas",Woohoo HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3281
+#EXTINF:0 tvg-id="Woohoo.br" group-title="Variedades e Músicas",Woohoo HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5277
+#EXTINF:0 tvg-id="Woohoo.br" group-title="Variedades e Músicas",Woohoo
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1787
+#EXTINF:0 tvg-id="Multishow.br" group-title="Variedades e Músicas",Multishow HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1944
+#EXTINF:0 tvg-id="Multishow.br" group-title="Variedades e Músicas",Multishow HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/170
+#EXTINF:0 tvg-id="Multishow.br" group-title="Variedades e Músicas",Multishow
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1851
+#EXTINF:0 tvg-id="Multishow.br" group-title="Variedades e Músicas",Multishow *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/75
+#EXTINF:0 tvg-id="Bishd.br" group-title="Variedades e Músicas",BIS HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1976
+#EXTINF:0 tvg-id="Bishd.br" group-title="Variedades e Músicas",BIS HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/202
+#EXTINF:0 tvg-id="Bishd.br" group-title="Variedades e Músicas",Bis
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1906
+#EXTINF:0 tvg-id="Bishd.br" group-title="Variedades e Músicas",Bis *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/130
+#EXTINF:0 tvg-id="Mtv.br" group-title="Variedades e Músicas",MTV HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1161
+#EXTINF:0 tvg-id="Mtv.br" group-title="Variedades e Músicas",MTV HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2028
+#EXTINF:0 tvg-id="Mtv.br" group-title="Variedades e Músicas",MTV
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1852
+#EXTINF:0 tvg-id="Mtv.br" group-title="Variedades e Músicas",MTV *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/76
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Variedades e Músicas",VH1 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1167
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Variedades e Músicas",VH1 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2022
+#EXTINF:0 tvg-id="VH1.eur" group-title="Variedades e Músicas",VH1*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5246
+#EXTINF:0 tvg-id="VH1.eur" group-title="Variedades e Músicas",VH1
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3467
+#EXTINF:0 tvg-id="ext" group-title="Variedades e Músicas",Music Box Brasil HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3462
+#EXTINF:0 tvg-id="ext" group-title="Variedades e Músicas",Music Box Brazil *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/74
+#EXTINF:0 tvg-id="Trutv.br" group-title="Variedades e Músicas",TRUTV HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3627
+#EXTINF:0 tvg-id="Trutv.br" group-title="Variedades e Músicas",TruTV
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1796
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="Variedades e Músicas",Comedy Central HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3336
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="Variedades e Músicas",Comedy Central HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5276
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="Variedades e Músicas",Comedy Central
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1897
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="Variedades e Músicas",Comedy Central *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/121
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="Variedades e Músicas",ID - Investigação Discovery HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1946
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="Variedades e Músicas",ID - Investigação Discovery HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/172
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="Variedades e Músicas",ID - Investigação Discovery
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1861
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="Variedades e Músicas",ID - Investigação Discovery *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/85
+#EXTINF:0 tvg-id="Homehealth.br" group-title="Variedades e Músicas",Discovery Home & Health HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1972
+#EXTINF:0 tvg-id="Homehealth.br" group-title="Variedades e Músicas",Discovery Home & Health HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/198
+#EXTINF:0 tvg-id="Homehealth.br" group-title="Variedades e Músicas",Discovery Home & Health
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1893
+#EXTINF:0 tvg-id="Homehealth.br" group-title="Variedades e Músicas",Discovery Home & Health *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/117
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Variedades e Músicas",Lifetime HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1156
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Variedades e Músicas",Lifetime HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2033
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Variedades e Músicas",Lifetime
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1859
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Variedades e Músicas",Lifetime *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/83
+#EXTINF:0 tvg-id="Tlc.br" group-title="Variedades e Músicas",TLC HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1166
+#EXTINF:0 tvg-id="Tlc.br" group-title="Variedades e Músicas",TLC HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2023
+#EXTINF:0 tvg-id="Tlc.br" group-title="Variedades e Músicas",TLC
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1800
+#EXTINF:0 tvg-id="Tlc.br" group-title="Variedades e Músicas",TLC *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/22
+#EXTINF:0 tvg-id="E.br" group-title="Variedades e Músicas",E! Entertainment HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1152
+#EXTINF:0 tvg-id="E.br" group-title="Variedades e Músicas",E! Entertainment HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2037
+#EXTINF:0 tvg-id="E.br" group-title="Variedades e Músicas",E! Entertainment
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1886
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="Variedades e Músicas",Food Network HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1153
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="Variedades e Músicas",Food Network
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1880
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="Variedades e Músicas",Food Network *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/104
+#EXTINF:0 tvg-id="ext" group-title="Variedades e Músicas",Curta! HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3282
+#EXTINF:0 tvg-id="ext" group-title="Variedades e Músicas",CURTA! HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5280
+#EXTINF:0 tvg-id="ext" group-title="Variedades e Músicas",Curta!
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1896
+#EXTINF:0 tvg-id="ext" group-title="Variedades e Músicas",Curta! *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/120
+#EXTINF:0 tvg-id="Arte1.br" group-title="Variedades e Músicas",Arte 1 HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5286
+#EXTINF:0 tvg-id="Arte1.br" group-title="Variedades e Músicas",Arte 1 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3280
+#EXTINF:0 tvg-id="Arte1.br" group-title="Variedades e Músicas",Arte 1
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1912
+#EXTINF:0 tvg-id="Playtv.br" group-title="Variedades e Músicas",Play TV
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1840
+
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Documentários",Animal Planet HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1980
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Documentários",Animal Planet  HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/206
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Documentários",Animal Planet
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1914
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Documentários",Animal Planet *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/139
+#EXTINF:0 tvg-id="Discovery.br" group-title="Documentários",Discovery Channel HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1973
+#EXTINF:0 tvg-id="Discovery.br" group-title="Documentários",Discovery Channel HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/199
+#EXTINF:0 tvg-id="Discovery.br" group-title="Documentários",Discovery Channel
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1895
+#EXTINF:0 tvg-id="Discovery.br" group-title="Documentários",Discovery Channel *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/119
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="Documentários",Discovery Theater HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1971
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="Documentários",Discovery Theater HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/197
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="Documentários",Discovery Theater
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5273
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="Documentários",Discover World HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1969
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="Documentários",Discovery World HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/195
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="Documentários",Discovery World *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5272
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="Documentários",Discovery World
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3338
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Documentários",Discovery Discovery Science  HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3283
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Documentários",Discovery Science
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1891
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Documentários",Discovery Science *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5274
+#EXTINF:0 tvg-id="DiscoveryCivilization.br" group-title="Documentários",Discovery Civilization HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3285
+#EXTINF:0 tvg-id="DiscoveryCivilization.br" group-title="Documentários",Discovery Civilization
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1894
+#EXTINF:0 tvg-id="DiscoveryCivilization.br" group-title="Documentários",Discovery Civilization *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/118
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentários",Discovery Turbo HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1970
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentários",Discovery Turbo HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/196
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="Documentários",Discovery Turbo
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1890
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentários",Discovery Turbo *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/114
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Documentários",National Geographic HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1942
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Documentários",National Geographic HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/168
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Documentários",National Geographic
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1848
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Documentários",National Geographic *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/72
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Documentários",Nat Geo WILD HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1943
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Documentários",Nat Geo Wild HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/169
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Documentários",Nat Geo Wild
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1849
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Documentários",Nat Geo Wild *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/73
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Documentários",HISTORY CHANNEL HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1947
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Documentários",History Channel HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/173
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Documentários",History Channel
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1801
+#EXTINF:0 tvg-id="H2.br" group-title="Documentários",H2 HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1953
+#EXTINF:0 tvg-id="H2.br" group-title="Documentários",H2 HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/179
+#EXTINF:0 tvg-id="H2.br" group-title="Documentários",H2
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1869
+#EXTINF:0 tvg-id="H2.br" group-title="Documentários",H2 *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1529
+
+#EXTINF:0 tvg-id="Globonews.br" group-title="Notícias",Globo NEWS HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1154
+#EXTINF:0 tvg-id="Globonews.br" group-title="Notícias",Globo News HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2035
+#EXTINF:0 tvg-id="Globonews.br" group-title="Notícias",Globo News
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1872
+#EXTINF:0 tvg-id="Globonews.br" group-title="Notícias",Globo News *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/96
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Notícias",Band News HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3334
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Notícias",Band News HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5283
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Notícias",Band News
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1910
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Notícias",Band News *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/134
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Notícias",Record News HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3092
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Notícias",Record News
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1826
+#EXTINF:0 tvg-id="Nhk.br" group-title="Notícias",NHK HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5262
+#EXTINF:0 tvg-id="Nhk.br" group-title="Notícias",NHK
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1846
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="Notícias",TV Camara
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2047
+#EXTINF:0 tvg-id="Tvjustica.br" group-title="Notícias",TV Justiça
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3629
+#EXTINF:0 tvg-id="Tvsenado.br" group-title="Notícias",TV Senado
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3630
+
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="Infantil",Zoomoo HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5245
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="Infantil",Zoomoo
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5244
+#EXTINF:0 tvg-id="Boomerang.br" group-title="Infantil",Boomerang HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3461
+#EXTINF:0 tvg-id="Boomerang.br" group-title="Infantil",Boomerang HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5281
+#EXTINF:0 tvg-id="Boomerang.br" group-title="Infantil",Boomerang
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1905
+#EXTINF:0 tvg-id="Boomerang.br" group-title="Infantil",Boomerang *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/129
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/141
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2041
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1900
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/124
+#EXTINF:0 tvg-id="Tooncast.br" group-title="Infantil",Tooncast HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5250
+#EXTINF:0 tvg-id="Tooncast.br" group-title="Infantil",Tooncast
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1797
+#EXTINF:0 tvg-id="Tooncast.br" group-title="Infantil",Tooncast *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/19
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Infantil",NICK HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1162
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Infantil",Nick HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3464
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Infantil",Nick
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1844
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Infantil",Nick *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/68
+#EXTINF:0 tvg-id="NickJr.br" group-title="Infantil",Nick JR HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3463
+#EXTINF:0 tvg-id="NickJr.br" group-title="Infantil",Nick Jr  HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5261
+#EXTINF:0 tvg-id="NickJr.br" group-title="Infantil",Nick Jr
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1845
+#EXTINF:0 tvg-id="NickJr.br" group-title="Infantil",Nick Jr *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/69
+#EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5270
+#EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1887
+#EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/111
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="Infantil",Disney Channel HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1151
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="Infantil",Disney Channel HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2038
+#EXTINF:0 tvg-id="Discovery.br" group-title="Infantil",Disney Channel
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1889
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="Infantil",Disney channel*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3337
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Infantil",Disney Junior HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5271
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Infantil",Disney Junior
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1888
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Infantil",Disney Junior *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/112
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Infantil",Discovery Kids HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1150
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Infantil",Discovery Kids HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2039
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Infantil",Discovery Kids
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1892
+#EXTINF:0 tvg-id="Gloob.br" group-title="Infantil",Gloob HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1155
+#EXTINF:0 tvg-id="Gloob.br" group-title="Infantil",Gloob HD *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/2034
+#EXTINF:0 tvg-id="Gloob.br" group-title="Infantil",Gloob
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1871
+#EXTINF:0 tvg-id="Gloob.br" group-title="Infantil",Gloob *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/95
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Gloobinho HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3091
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Gloobinho
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3090
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Infantil",TV Ra Tim Bum HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3465
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Infantil",TV RA TIM BUM HD*
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5257
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Infantil",TV Ra tim bum
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/1793
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Infantil",TV Ra tim bum *
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/15
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Nat Geo Kids HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3050
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Nat Geo Kids
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3049
+#EXTINF:0 tvg-id="BabyTV.br" group-title="Infantil",Baby TV  HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5285
+#EXTINF:0 tvg-id="BabyTV.br" group-title="Infantil",Baby TV Brasil
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/3055
+#EXTINF:0 tvg-id="BabyTV.br" group-title="Infantil",Baby TV
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5284
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Play Kids HD
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5472
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Infantil",Play Kids
+http://svrjupiter.live:80/UGMOAFRS/BFM6PYSE/5471

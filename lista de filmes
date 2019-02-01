@@ -1,14 +1,12 @@
 #EXTM3U
- 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sempre Atualizando.: 01/02/2019
 http://0.0.0.0
 #EXTINF:0 tvg-id="ext" group-title="Channels",Lista Criada Por Vandersoncsp
 Http://0.0.0.0
 #EXTINF:0 tvg-id="ext" group-title="Facebook",Links Facebook
-https://www.facebook.com/vanderson.paludo
+https://www.facebook.com/vanderson.paludo/
 #EXTINF:0 tvg-id="ext" group-title="Filmes",Links TEMPORARIOS
 http://0.0.0.0
-
 #EXTINF:0 tvg-id="avi" group-title="Filmes",Fuga do Hospicio - A Historia de Nelly Bly
 http://media.lhmtv.ga/filmes/FUGADOHOSP%C3%8DCIO%E2%80%93AHIST%C3%93RIADENELLIEDUBHD.mp4?LHMTv
 #EXTINF:0 tvg-id="avi" group-title="Filmes",Quem Somos Agora
@@ -73,6 +71,8 @@ http://cdn.lhmtv.ga/filmes/odoutrinador-dub-720p.mp4?LHMTv
 http://media.lhmtv.ga/filmes/NORITMOINDIANOHDDUB.mp4?LHMTv
 #EXTINF:0 tvg-id="avi" group-title="Filmes",Doces ou Travessuras
 http://media.lhmtv.ga/filmes/DOCESOUTRAVASSURASHDDUB.mp4?LHMTv
+#EXTINF:0 tvg-id="ext" group-title="Filmes",Maus Momentos no Hotel Royale
+http://stck01.cdnav.tech/movies/mausmomentosnohotelroyale-dub-720p.mp4?token=M_WD9BkzB5mzCl_4RUonag&expires=1549164669
 #EXTINF:0 tvg-id="avi" group-title="Filmes",Historias de Alem – Tumulo
 http://media.lhmtv.ga/filmes/HISTORIASDEALEMTUMULOHD720P.mp4?LHMTv
 #EXTINF:0 tvg-id="avi" group-title="Filmes",Godzilla O Devorador de Planetas
